@@ -1,0 +1,3 @@
+#/bin/bash
+string = "Helloworld"
+echo.$string
